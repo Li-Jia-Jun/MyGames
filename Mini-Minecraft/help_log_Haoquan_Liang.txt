@@ -1,0 +1,25 @@
+3:59 PM 11/10/2021
+Q: Asked on Piazza about some clarifications on player physics
+A:Answered on Piazza by Prof. Mally
+
+1:45 PM 11/11/2021
+Q: Asked Prof. Mally why my collision detection isn't work as intended
+A: Add a small margin so the player will stop before it
+
+10:31 PM 11/11/2021
+Q: Asked Xu Zhang how he "stopped" the gravity after the player reaches the ground
+A: Add a flag to indicate "on ground" and if so set the gravity to 0
+
+1:50 PM 11/12/2021
+Q: Asked Prof. Mally about how to implement a smooth movement when a collision happens
+A: Only reset the velocity for the collision axis
+
+5:00 PM 11/19/2021 to 0:30 AM 11/20/2021
+Q/A: Working with my teammates and we help fix each other's bugs
+
+1:30 PM 11/21/2021 to 8:30 PM 11/21/2021
+Q/A: Working with my teammates and we help fix each other's bugs
+
+2:10 PM 12/06/2021
+Q: Need a L-system rule set to generate a maze
+A: Found some good examples here http://paulbourke.net/fractals/lsys/

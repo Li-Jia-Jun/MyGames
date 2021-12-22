@@ -1,0 +1,8 @@
+Milestone 1:
+2021-11-10 3:00pm: Adam gave me some hints (using temperature and moisture model) on how to implement height blending between biomes.
+
+Milestone 2:
+I did not receive help this time.
+
+Milestone 3:
+I did not receive help this time.
