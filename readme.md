@@ -1,10 +1,8 @@
 Hello, 
 
-my name is Jiajun Li.
+this repo is about some of the games I've made since 2016, some for fun and some for school projects.
 
-This repo marks some of the games I've made since 2016, some for fun and some for school projects.
-
-Here are some screenshots of each game for a quick review:
+Here are some screenshots of each game for a quick look:
 
 **Mini-Minecraft**
 
@@ -13,10 +11,10 @@ Here are some screenshots of each game for a quick review:
 
 **Calabash Brothers Protect Grandpa (Tower Defence)**
 
-<img src="TowerDefence/screenShot.png" width="80%">
-<img src="TowerDefence/screenShot2.png" width="80%">
+<img src="TowerDefence/ScreenShot.png" width="80%">
+<img src="TowerDefence/ScreenShot2.png" width="80%">
 
 **Panda Lord Card**
 
-<img src="PandaLordCard/screenShot.png" width="80%">
-<img src="PandaLordCard/screenShot2.png" width="80%">
+<img src="PandaLordCard/ScreenShot.png" width="80%">
+<img src="PandaLordCard/ScreenShot2.png" width="80%">
