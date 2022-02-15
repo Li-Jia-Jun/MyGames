@@ -29,5 +29,8 @@ video link: https://www.youtube.com/watch?v=skJvBKR3DMc
 
 video link: https://www.youtube.com/watch?v=fPgvIrXZVs0
 
-<img src="MySpaceInvader/ScreenShot2.png" width="80%">
 <img src="MySpaceInvader/ScreenShot3.png" width="80%">
+
+**GoHome**
+
+<img src = "Go-Home/ScreenShot_3.png">
