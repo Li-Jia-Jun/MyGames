@@ -1,6 +1,6 @@
-Hello, 
+Hi, 
 
-this repo is about some of the games I've made since 2016, some for fun and some for school projects.
+this repo is about some of the games I've made along the way, some for school projects, some for game jam, and some just for fun.
 
 Here is a quick look of each game:
 
