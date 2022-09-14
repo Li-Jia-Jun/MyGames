@@ -2,6 +2,8 @@ Hi,
 
 this repo is about some of the games I've made along the way, some for school projects, some for game jam, and some just for fun.
 
+My Linkedin: https://www.linkedin.com/in/jiajun-li-5063a4217/
+
 Here is a quick look of each game:
 
 ## **Mini-Minecraft** ##
